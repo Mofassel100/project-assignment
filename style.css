@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.donate-menu-one {
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    margin: ;
+}
+
+.donate-element {
+    text-align: center;
+    padding: 80px;
+    color: white;
+
+}
+
+.donate-btn {
+    background-color: rgb(223, 44, 13);
+    color: white;
+    padding: 8px 13px 8px 13px;
+    border-radius: 6px;
+}
+
+
+
+.donate-amout-menu {
+
+    text-align: center;
+    margin: 40px;
+}
+
+
+
+.donate-amout-items {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.donate-amout-items li {
+    list-style: none;
+    border: 1px solid grey;
+    padding: 25px 14px 25px 14px;
+    margin: 10px 5px 8px 4px;
+    border-radius: 4px;
+
+}
+
+.amount-option {
+    color: red;
+    background-color: #ff7f50;
+
+}
+
+.donate-amount-inp {
+    width: 100%;
+    text-align: center;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    margin: 20px 0 10px 0;
+}
+
+.donate-amn-btn {
+    background-color: rgb(223, 44, 13);
+    padding: 7px 12px 7px 12px;
+    color: white;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.our-donate-plan-menu {
+
+
+    margin: 50px;
+
+}
+
+.our-donate-plan-discn {
+
+    text-align: center;
+}
+
+.donate-plan-items {
+    display: flex;
+    justify-content: space-evenly;
+
+
+
+}
+
+#plan-one {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 40px 10px 20px 40px;
+}
+
+#plan-two {
+    background-color: lightpink;
+    margin: 10px;
+    padding: 40px 10px 20px 40px;
+}
+
+#plan-three {
+    background-color: moccasin;
+    margin: 10px;
+    padding: 40px 10px 20px 40px;
+}
+
+.footer-menu {
+
+
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    color: white;
+    padding: 20px;
+}
+
+#footer-items {
+    color: red;
+
+
+}
