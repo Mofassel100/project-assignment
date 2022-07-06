@@ -6,7 +6,7 @@
 .donate-menu-one {
     background-image: url(images/donation4.jpg);
     background-repeat: no-repeat;
-    margin: ;
+    font-family: 'Poppins', sans-serif;
 }
 
 .donate-element {
@@ -23,15 +23,11 @@
     border-radius: 6px;
 }
 
-
-
 .donate-amout-menu {
 
     text-align: center;
     margin: 40px;
 }
-
-
 
 .donate-amout-items {
     display: flex;
@@ -110,12 +106,53 @@
     padding: 40px 10px 20px 40px;
 }
 
+.reletive-poor {
+
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.reletive-poor-left {
+    margin: 15px;
+    padding: 10;
+
+}
+
+.reletive-poor-right {
+    margin: 15px;
+    width: 40%;
+    height: 40%;
+}
+
+.page-updtp-menu {
+
+
+    margin: 30px;
+
+    text-align: center;
+}
+
+.page-updtp-discs {
+
+    background-color: lightgoldenrodyellow;
+    height: 50px;
+    width: 300px;
+    margin: 20px;
+    padding: 50px 30px 25px 30px;
+}
+
+.page-updtp-child {
+    background-color: rgb(228, 42, 9);
+
+}
+
 .footer-menu {
 
 
     text-align: center;
     background-color: black;
-    height: 100px;
+    height: 30px;
     color: white;
     padding: 20px;
 }
