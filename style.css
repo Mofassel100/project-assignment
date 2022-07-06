@@ -7,7 +7,7 @@ body {
 .donate-menu-one {
     background-image: url(images/donation4.jpg );
     background-repeat: no-repeat;
-    background-size: 100% 500px;
+    background-size: 100% 700px;
 }
 
 
@@ -106,20 +106,24 @@ body {
 .reletive-poor {
     margin: 50px 10px;
     text-align: center;
+
 }
 
 .reletive-poor-elmt {
     display: flex;
     justify-content: space-between;
     margin: 30px 5px 20px;
+    width: 100%;
 }
 
 .reletive-poor-elmt-left {
     margin-right: 10px;
+    width: 40%;
 }
 
 .reletive-poor-elmt-right {
     margin-right: 10px;
+    width: 40%;
 }
 
 
@@ -148,10 +152,10 @@ body {
     background-color: black;
 
     color: white;
-    padding: 20px 0 30px;
+    padding: 10px 0;
 }
 
 #footer-items {
     color: red;
-    padding: 10px 0;
+
 }
