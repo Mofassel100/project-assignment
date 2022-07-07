@@ -7,7 +7,8 @@ body {
 .donate-menu-one {
     background-image: url(images/donation4.jpg );
     background-repeat: no-repeat;
-    background-size: 100% 700px;
+    background-size: 100% 600px;
+    height: 650px;
 }
 
 
@@ -71,7 +72,7 @@ body {
 
 .our-donate-plan-menu {
     width: 100%;
-    margin: 5px 30px;
+    margin: 20px 10px;
 }
 
 .our-donate-plan-discn {
@@ -82,37 +83,40 @@ body {
 .donate-plan-items {
     display: flex;
     justify-content: center;
-    margin: 10px 20px;
+    margin: 10px 10px;
+
 }
 
 #plan-one {
     background-color: lightgray;
-    margin: 10px;
-    padding: 40px 20px 5px;
+    margin: 10px 5px;
+    padding: 18px 10px;
 }
 
 #plan-two {
     background-color: lightpink;
-    margin: 10px;
-    padding: 40px 20px 5px;
+    margin: 10px 5px;
+    padding: 18px 10px;
+
 }
 
 #plan-three {
     background-color: moccasin;
-    margin: 10px;
-    padding: 40px 20px 5px;
+    margin: 10px 5px;
+    padding: 18px 10px;
 }
 
 .reletive-poor {
-    margin: 50px 10px;
-    text-align: center;
+    margin: 10px 0;
+
 
 }
 
 .reletive-poor-elmt {
     display: flex;
     justify-content: space-between;
-    margin: 20px 10px;
+    margin: 5px 10px;
+    padding: 5px 3px;
     width: 100%;
 }
 
@@ -122,14 +126,14 @@ body {
 }
 
 .reletive-poor-elmt-right {
-    margin-right: 5px;
+
     width: 40%;
 }
 
 
 .page-updtp-menu {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 35px;
 
 }
 
@@ -146,17 +150,17 @@ body {
 }
 
 .footer-menu {
-
+    width: 100%;
 
     text-align: center;
     background-color: black;
 
     color: white;
-    padding: 10px 0;
-    padding-bottom: 15px;
+    padding: 8px 0;
+
 }
 
-#footer-items {
+#footer-had {
     color: red;
 
 }
